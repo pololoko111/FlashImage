@@ -305,7 +305,6 @@ def generate1():
         ("Open8eIGHT", "http://openeight.de/json/%s", "machinebuild"),
         ("OpenDROID", "https://opendroid.org/json/%s", "machinebuild"),
         ("TeamBlue", "https://images.teamblue.tech/json/%s", "machinebuild"),
-        ("EGAMI", "https://image.egami-image.com/json/%s", "machinebuild"),
         ("OpenBH", "https://images.openbh.net/json/%s", "machinebuild"),
         ("OpenSPA", "https://openspa.webhop.info/online/json.php?box=%s", "machinebuild")
     ]
